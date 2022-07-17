@@ -1,5 +1,5 @@
-## Bem Vindos(as) ao meu repositório!
+# Bem Vindos(as) ao meu repositório!
 
-# Equipe:
+## Equipe:
 - Henrique Barbosa
 - mais ninguém, repositório não oficial feito para testes!
